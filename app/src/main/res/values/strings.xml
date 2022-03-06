@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sensores Semana4</string>
+    <string name="regresar">REGRESAR AL MENU PRINCIPAL</string>
+    //Menu
+    <string name="tvmenu">Menú</string>
+    <string name="op1">Sensor Acelerometro</string>
+    <string name="op2">Sensor de Proximidad</string>
+    <string name="op3">Sensor de Temperatura</string>
+    //Sensor de proximidad
+    <string name="tvSensorPro">Sensor de proximidad</string>
+    //acelerometro
+    <string name="tvSensorAcele">Sensor Acelerometro</string>
+    //temperatura
+    <string name="tvTemperatura">Sensor de Temperatura</string>
+
+</resources>
